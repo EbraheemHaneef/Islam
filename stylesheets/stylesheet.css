@@ -112,9 +112,11 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #159957; }
+  color:  #4424FF;
+  font-family: Athelas;}
 .main-content p {
-  margin-bottom: 1em; }
+  margin-bottom: 1em;
+  font-family: Helvetica; }
 .main-content code {
   padding: 2px 4px;
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
